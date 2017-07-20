@@ -9,7 +9,7 @@ A Simple Mobile Application For Sending SMS Using Globe Labs API.
 4.  To See More Sample Application Visit Globe Labs [Repository](https://github.com/globelabs)
 4.	For more info in Globe Labs Visit Their Website www.globelabs.com.ph
 
-![Alt text](https://raw.githubusercontent.com/glide143/globe-sms/master/Screen%20Shot/Screen1.png" width="200" height="400" "Sample ScreenShot")
+![Alt text](https://raw.githubusercontent.com/glide143/globe-sms/master/Screen%20Shot/Screen1.png" "Sample ScreenShot"){:height="50%" width="50%"}
 
 
 
