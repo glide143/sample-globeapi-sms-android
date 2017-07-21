@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">globe-sms</string>
-    <string name="SHORT_CODE">21587099</string>
-    <string name="ACCESS_TOKEN">ugfHS1PVUwuO3v2b0PrmhJ0svmH7fLZTc1uRWNQx3vk</string>
+    <string name="SHORT_CODE">YOUR_SHORT_CODE_HERE</string>
+    <string name="ACCESS_TOKEN">YOUR_ACCESS_TOKEN_HERE</string>
 </resources>
