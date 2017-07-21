@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
             try {
                 sms
                         .setClientCorrelator("1234")
-                        .setReceiverAddress("09273411871")
+                        .setReceiverAddress("YOUR_SUBSCRIBERS_NUMBER")
                         .setMessage(etMessage.getText().toString())
                         .sendMessage(new AsyncHandler() {
                             @Override
